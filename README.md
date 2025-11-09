@@ -23,10 +23,10 @@ Launch the app in your browser to explore live weather updates.
 # 🧠 Learning Highlights
 This app demonstrates:
 
-1.Working with asynchronous JavaScript (Promises / async-await)
-1.Consuming JSON APIs in the browser
-1.Clean UI and minimal design philosophy
-1.Modular architecture in small JS projects
+- Working with asynchronous JavaScript (Promises / async-await)
+- Consuming JSON APIs in the browser
+- Clean UI and minimal design philosophy
+- Modular architecture in small JS projects
 
 # 👨‍💻 Author
 Created by AminTavakoli-99
