@@ -1,13 +1,14 @@
 # weatherAppJS
 Weather App is a simple yet elegant application that provides real-time weather information for any location around the world.
 It demonstrates clean code architecture, RESTful API integration, and user-friendly design principles — ideal as a portfolio project or learning reference.
+just enter the city name in search box 
 
 ## 🚀 Features
-Current Weather: Displays temperature, humidity, wind speed, and weather conditions in real time.<br>
-Search Functionality: Easily search for weather data by city name.<br>
-API Integration: Fetches reliable weather data using the OpenWeatherMap API.<br>
-Responsive UI: Automatically adjusts layout for mobile and desktop screens.<br>
-Error Handling: Graceful fallbacks for invalid inputs or connectivity issues.<br>
+- 🌍 **Search by City Name** – Quickly get weather data for any location.<br>
+- ☀️ **Current Weather Details** – View temperature, humidity, wind speed, and description.<br>
+- 🧭 **Real-Time API Data** – Integrated with **[OpenWeatherMap API](https://openweathermap.org/api)**.<br>
+- 💻 **Responsive UI** – Works smoothly on both mobile and desktop views.<br>
+- ⚙️ **Error Handling** – Graceful failure for invalid city names or network issues.<br>
 ## 🧩 Tech Stack
 Frontend: HTML5, CSS3, JavaScript<br>
 API: OpenWeatherMap REST API<br>
@@ -21,7 +22,6 @@ Launch the app in your browser to explore live weather updates.\
 
 ## 🧠 Learning Highlights
 This app demonstrates:
-
 - Working with asynchronous JavaScript (Promises / async-await)
 - Consuming JSON APIs in the browser
 - Clean UI and minimal design philosophy
