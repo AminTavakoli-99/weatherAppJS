@@ -8,7 +8,7 @@ Search Functionality: Easily search for weather data by city name.<br>
 API Integration: Fetches reliable weather data using the OpenWeatherMap API.<br>
 Responsive UI: Automatically adjusts layout for mobile and desktop screens.<br>
 Error Handling: Graceful fallbacks for invalid inputs or connectivity issues.<br>
-##🧩 Tech Stack
+## 🧩 Tech Stack
 Frontend: HTML5, CSS3, JavaScript<br>
 API: OpenWeatherMap REST API<br>
 ## 💡 How to Run Locally
