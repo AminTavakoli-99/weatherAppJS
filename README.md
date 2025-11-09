@@ -18,7 +18,7 @@ Run a local server (via VS Code Live Server).
 Enter your API key in the configuration file (usually config.js or inside JS code).
 Launch the app in your browser to explore live weather updates.
 ## 📸 Preview
-
+![App Preview](ScreenShots/Preview.png)
 
 ## 🧠 Learning Highlights
 This app demonstrates:
