@@ -24,9 +24,10 @@ Launch the app in your browser to explore live weather updates.
 This app demonstrates:
 
 1.Working with asynchronous JavaScript (Promises / async-await)
-2.Consuming JSON APIs in the browser
-3.Clean UI and minimal design philosophy
-4.Modular architecture in small JS projects
+1.Consuming JSON APIs in the browser
+1.Clean UI and minimal design philosophy
+1.Modular architecture in small JS projects
+
 # 👨‍💻 Author
 Created by AminTavakoli-99
 
